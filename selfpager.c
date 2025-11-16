@@ -137,7 +137,7 @@ static int init() {
     case 0x740:
     case 0x760:
     case 0x761:
-        pagertab_addr = KERNEL_ADDRESS_DATA_BASE + 0xE41180;
+        pagertab_addr = KERNEL_ADDRESS_DATA_BASE + 0xE31180;
         break;
 
     case 0x800:
